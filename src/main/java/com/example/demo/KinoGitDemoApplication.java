@@ -8,6 +8,8 @@ public class KinoGitDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(KinoGitDemoApplication.class, args);
+
+        System.out.println("sup. this works");
     }
 
 }
